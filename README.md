@@ -1,2 +1,3 @@
 # odin-recipes
-recetas the odin projet
+
+Pagina de recetas con html y en un futuro css.
